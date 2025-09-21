@@ -8,9 +8,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "framer-motion": "^12.23.14"
   },
   "devDependencies": {
     "vite": "^4.4.9"
+  },
+  "engines": {
+    "node": ">=20.0.0 <21.0.0"
   }
 }
